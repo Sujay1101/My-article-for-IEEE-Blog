@@ -10,7 +10,7 @@ First mobile phones had to be packed in a *briefcase!* Mobile technology has com
 
 Networks are a group of connected devices. A common network architecture has all devices connected by 'links'. When the devices can move from one place to another these 'links' are *wireless*. The networks where the end devices are connected to the network wirelessly are called cellular networks. Mobile phones are classic examples of cellular networks. In the future, IoT devices and autonomous vehicles shall form a cellular network. 
 
- ![Cellular - Network](./Images/Cellular - Network.jpg)
+ ![Cellular - Network](./Images/Cellular_Network.jpg)
 
 
 
