@@ -6,11 +6,11 @@ First mobile phones had to be packed in a *briefcase!* Mobile technology has com
 
 ------
 
-![Cells](D:\NIT Surathkal\IEEE\Blog\Pictures\Cells.png)
+![Cells](./Images/Cells.png)
 
 Networks are a group of connected devices. A common network architecture has all devices connected by 'links'. When the devices can move from one place to another these 'links' are *wireless*. The networks where the end devices are connected to the network wirelessly are called cellular networks. Mobile phones are classic examples of cellular networks. In the future, IoT devices and autonomous vehicles shall form a cellular network. 
 
- ![Cellular - Network](D:\NIT Surathkal\IEEE\Blog\Pictures\Cellular - Network.jpg)
+ ![Cellular - Network](./Images/Cellular - Network.jpg)
 
 
 
@@ -58,7 +58,7 @@ The actual rate at which mobile phones send and receive information from the net
 
 The first mobile network, now called 1G, started in Japan in 1979. Unlike today's cell phones which use digital methods to store and transmit information, devices of this generation used *analog signals* to store and transmit information. The peak data rate was only *2.4 Kbps*.
 
-<img src="D:\NIT Surathkal\IEEE\Blog\Pictures\Motorola Dyna TAC1-G phone.png" alt="Motorola Dyna TAC1-G phone" style="zoom:67%;" />
+<img src="./Images/Motorola Dyna TAC1-G phone.png" />
 
 ​                         Motorola DynaTAC weighed a little less than a *kilo* and took *10 hours* to charge!
 
@@ -68,7 +68,7 @@ The first mobile network, now called 1G, started in Japan in 1979. Unlike today'
 
 2G mobile networks began in Finland in 1991. They were based on the *GSM* (Global System for Mobile Communications) standards. The major change in this generation was the use of *digital* methods to store and send information. This allowed calls and text encryption, SMS (Short Messaging Service), picture messaging and, MMS (Multimedia Messaging Service). Equipment all around the world was manufactured according to the GSM standard. This introduced uniformity in network technology across regions. Hence roaming became possible. The peak data rate was *50 Kbps*.
 
-<img src="D:\NIT Surathkal\IEEE\Blog\Pictures\Nokia3210(2-G phone).png" alt="Nokia3210(2-G phone)" style="zoom:67%;" />
+<img src="./Images/Nokia3210(2-G phone).png" />
 
 ​                                                          Nokia 3210 sold about 160 million units
 
@@ -86,7 +86,7 @@ The growth in mobile data was so fast that the industry started planning a major
 
 
 
-![image-1_sized_50](D:\NIT Surathkal\IEEE\Blog\Pictures\image-1_sized_50.jpg)
+![image-1_sized_50](./Images/image-1_sized_50.jpg)
 
 As more people get access to smartphones and the IoT network expands, *billions* of devices shall need access to a mobile network. That is where 5G comes in.
 
@@ -104,7 +104,7 @@ As more people get access to smartphones and the IoT network expands, *billions*
 
 Latency means 'delay'. Time taken by your phone to show results of a google search is one kind of latency in a network. The core network controls the flow of information. It is the 'intelligence' of the network. For faster decisions, this intelligence is *distributed*. Information relevant to a device is stored close to the device. This is called *edge cloud* and *edge computing*. Edge cloud can be used when low latency is necessary and for latency tolerant applications core network will be accessed. Unfortunately, latency is a very unpredictable parameter. Even with 5G, there shall be wide variations in the latency depending on the quality of the network.
 
-![qc_onq_lowlatency_gif_final](D:\NIT Surathkal\IEEE\Blog\Pictures\qc_onq_lowlatency_gif_final.gif)
+![qc_onq_lowlatency_gif_final](./Images/qc_onq_lowlatency_gif_final.gif)
 
 ##### Peak data rate
 
